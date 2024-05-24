@@ -1,3 +1,4 @@
 mleko, 3
 biber, 1
 sir, 2
+riba, 4
